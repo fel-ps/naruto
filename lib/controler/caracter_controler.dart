@@ -35,3 +35,4 @@ class CaracterController extends GetxController {
     }
   }
 }
+

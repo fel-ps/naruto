@@ -29,3 +29,4 @@ class Caracterreposity implements Ipersonagemreposity {
     }
   }
 }
+
