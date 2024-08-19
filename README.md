@@ -14,7 +14,7 @@ Projeto para a matéria de Programação Orientada a Objetos - UFRN.
 <br>
 
 <p align="center">
-  <img alt="projeto my-website" src=".github/.jpg" width="100%">
+  <img alt="projeto " src="lib/assets/assets/" width="100%">
 </p>
 
 ## 🚀 Tecnologias
