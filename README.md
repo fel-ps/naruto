@@ -1,16 +1,43 @@
-# teste
+<h1 align="center"> Naruto Universe </h1>
 
-A new Flutter project.
+<p align="center">
+Projeto para a matéria de Programação Orientada a Objetos - UFRN.
+</p>
 
-## Getting Started
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-devs">Devs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-api">Api</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-This project is a starting point for a Flutter application.
+<br>
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img alt="projeto my-website" src=".github/.jpg" width="100%">
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Tecnologias
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- Flutter e Dart
+- Git e Github
+- Vscode
+- Getx
+- Api
+
+## 💻 Projeto
+
+Este projeto foi desenvolvido para a matéria de POO para a faculdade (UFRN). Tem como temática a série japonesa naruto, contendo algumas informanções e personagens do anime.
+
+## 🕵️ Devs
+
+- Matheus Diniz Fernandes
+- Felipe Augusto Araújo da Cunha
+
+## 🎲 API
+
+https://narutodb.xyz/
+
+
